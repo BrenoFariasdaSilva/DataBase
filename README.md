@@ -1,6 +1,6 @@
 <div align="center">
   
-# [DataBase](https://github.com/BrenoFariasdaSilva/DataBase) <img src="https://github.com/BrenoFariasdaSilva/DataBase/blob/main/assets/MySQL.svg"  width="3%" height="3%">
+# [DataBase](https://github.com/BrenoFariasdaSilva/DataBase) <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  width="3%" height="3%">
 
 </div>
 

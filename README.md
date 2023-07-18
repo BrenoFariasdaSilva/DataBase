@@ -13,3 +13,7 @@ My SQL DataBase Activities.
 --- 
 
 </div>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/DataBase.svg" alt="wakatime" />
+</p>

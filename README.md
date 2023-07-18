@@ -4,4 +4,12 @@
 
 </div>
 
+<div align="center">
+
+--- 
+
 My SQL DataBase Activities.
+
+--- 
+
+</div>

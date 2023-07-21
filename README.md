@@ -14,9 +14,14 @@ My SQL DataBase Activities.
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/DataBase.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/DataBase)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/DataBase)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/DataBase)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/DataBase.svg)
+
+</div>
 
 <div align="center">
   
